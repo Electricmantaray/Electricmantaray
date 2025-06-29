@@ -12,10 +12,9 @@ Im currently studying computing sciences with a year in industry at UEA.<br>(Aqu
 ![](https://nirzak-streak-stats.vercel.app/?user=Electricmantaray&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Electricmantaray&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Electricmantaray&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Electricmantaray&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Electricmantaray&icon=2&color=5)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Electricmantaray&icon=2&color=5)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
